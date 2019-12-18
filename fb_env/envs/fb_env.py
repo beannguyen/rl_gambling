@@ -11,7 +11,7 @@ import constants
 from common import utils
 from common.formulations import calculate_hdp_result
 from common.models.enums import Actions
-from common.models.models import Match, Bet, OddAsianHDP, Odd1x2, MatchLogRecord
+from common.models.models import Bet, OddAsianHDP, Odd1x2, MatchLogRecord
 from logger import init_logger
 
 
