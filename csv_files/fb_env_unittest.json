@@ -1,0 +1,377 @@
+[
+  {
+    "m_id": 1746813,
+    "league_id": 476,
+    "home_team": {
+      "t_id": 21696,
+      "name": "FK Ural Youth"
+    },
+    "away_team": {
+      "t_id": 44132,
+      "name": "PFC Sochi Youth"
+    },
+    "time": "2019-08-26T07:00:00",
+    "state": {
+      "code": 1,
+      "desc": "Part1"
+    },
+    "home_goals": 5,
+    "away_goals": 3,
+    "3in1": "True",
+    "minutes": 12,
+    "stats": {
+      "corner": {
+        "home": 0,
+        "away": 0
+      },
+      "yellow_card": {
+        "home": 0,
+        "away": 0
+      },
+      "red_card": {
+        "home": 0,
+        "away": 0
+      },
+      "shots": {
+        "home": 0.0,
+        "away": 3.0
+      },
+      "shots_on_goals": {
+        "home": 0.0,
+        "away": 3.0
+      },
+      "attach": {
+        "home": 19.0,
+        "away": 14.0
+      },
+      "dangerous_attack": {
+        "home": 3.0,
+        "away": 7.0
+      },
+      "possession": {
+        "home": 53.0,
+        "away": 47.0
+      }
+    },
+    "odds_1x2": [
+      {
+        "ht": 2.59,
+        "draw": 3.4,
+        "at": 2.28,
+        "time": 7,
+        "home_goals": 0,
+        "away_goals": 1
+      }
+    ],
+    "odds_hdp": [
+      {
+        "ht": 0.85,
+        "dec": 0.75,
+        "at": 1.03,
+        "time": 12,
+        "home_goals": 0,
+        "away_goals": 1
+      }
+    ]
+  },
+  {
+    "m_id": 1746813,
+    "league_id": 476,
+    "home_team": {
+      "t_id": 21696,
+      "name": "FK Ural Youth"
+    },
+    "away_team": {
+      "t_id": 44132,
+      "name": "PFC Sochi Youth"
+    },
+    "time": "2019-08-26T07:00:00",
+    "state": {
+      "code": 1,
+      "desc": "Part1"
+    },
+    "home_goals": 5,
+    "away_goals": 3,
+    "3in1": "True",
+    "minutes": 27,
+    "stats": {
+      "corner": {
+        "home": 2.0,
+        "away": 1.0
+      },
+      "yellow_card": {
+        "home": 0,
+        "away": 0
+      },
+      "red_card": {
+        "home": 0,
+        "away": 0
+      },
+      "shots": {
+        "home": 3.0,
+        "away": 6.0
+      },
+      "shots_on_goals": {
+        "home": 1.0,
+        "away": 4.0
+      },
+      "attach": {
+        "home": 35.0,
+        "away": 24.0
+      },
+      "dangerous_attack": {
+        "home": 17.0,
+        "away": 16.0
+      },
+      "possession": {
+        "home": 61.0,
+        "away": 39.0
+      }
+    },
+    "odds_1x2": [
+      {
+        "ht": 5.7,
+        "draw": 4.5,
+        "at": 1.36,
+        "time": 26,
+        "home_goals": 1,
+        "away_goals": 3
+      }
+    ],
+    "odds_hdp": [
+      {
+        "ht": 0.83,
+        "dec": 0.75,
+        "at": 1.05,
+        "time": 26,
+        "home_goals": 1,
+        "away_goals": 3
+      }
+    ]
+  },
+  {
+    "m_id": 1746813,
+    "league_id": 476,
+    "home_team": {
+      "t_id": 21696,
+      "name": "FK Ural Youth"
+    },
+    "away_team": {
+      "t_id": 44132,
+      "name": "PFC Sochi Youth"
+    },
+    "time": "2019-08-26T07:00:00",
+    "state": {
+      "code": 1,
+      "desc": "Part1"
+    },
+    "home_goals": 5,
+    "away_goals": 3,
+    "3in1": "True",
+    "minutes": 42,
+    "stats": {
+      "corner": {
+        "home": 2.0,
+        "away": 1.0
+      },
+      "yellow_card": {
+        "home": 1.0,
+        "away": 0.0
+      },
+      "red_card": {
+        "home": 0,
+        "away": 0
+      },
+      "shots": {
+        "home": 6.0,
+        "away": 6.0
+      },
+      "shots_on_goals": {
+        "home": 2.0,
+        "away": 4.0
+      },
+      "attach": {
+        "home": 49.0,
+        "away": 37.0
+      },
+      "dangerous_attack": {
+        "home": 29.0,
+        "away": 26.0
+      },
+      "possession": {
+        "home": 60.0,
+        "away": 40.0
+      }
+    },
+    "odds_1x2": [
+      {
+        "ht": 1.53,
+        "draw": 3.35,
+        "at": 5.8,
+        "time": 41,
+        "home_goals": 3,
+        "away_goals": 3
+      }
+    ],
+    "odds_hdp": [
+      {
+        "ht": 0.8,
+        "dec": 0.75,
+        "at": 1.08,
+        "time": 41,
+        "home_goals": 3,
+        "away_goals": 3
+      }
+    ]
+  },
+  {
+    "m_id": 1746813,
+    "league_id": 476,
+    "home_team": {
+      "t_id": 21696,
+      "name": "FK Ural Youth"
+    },
+    "away_team": {
+      "t_id": 44132,
+      "name": "PFC Sochi Youth"
+    },
+    "time": "2019-08-26T07:00:00",
+    "state": {
+      "code": 2,
+      "desc": "HT"
+    },
+    "home_goals": 5,
+    "away_goals": 3,
+    "3in1": "True",
+    "minutes": 47,
+    "stats": {
+      "corner": {
+        "home": 3.0,
+        "away": 1.0
+      },
+      "yellow_card": {
+        "home": 1.0,
+        "away": 0.0
+      },
+      "red_card": {
+        "home": 0,
+        "away": 0
+      },
+      "shots": {
+        "home": 6.0,
+        "away": 6.0
+      },
+      "shots_on_goals": {
+        "home": 2.0,
+        "away": 4.0
+      },
+      "attach": {
+        "home": 55.0,
+        "away": 40.0
+      },
+      "dangerous_attack": {
+        "home": 33.0,
+        "away": 27.0
+      },
+      "possession": {
+        "home": 61.0,
+        "away": 39.0
+      }
+    },
+    "odds_1x2": [
+      {
+        "ht": 1.69,
+        "draw": 3.05,
+        "at": 4.85,
+        "time": 45,
+        "home_goals": 3,
+        "away_goals": 3
+      }
+    ],
+    "odds_hdp": [
+      {
+        "ht": 0.9,
+        "dec": 0.75,
+        "at": 0.98,
+        "time": 45,
+        "home_goals": 3,
+        "away_goals": 3
+      }
+    ]
+  },
+  {
+    "m_id": 1746813,
+    "league_id": 476,
+    "home_team": {
+      "t_id": 21696,
+      "name": "FK Ural Youth"
+    },
+    "away_team": {
+      "t_id": 44132,
+      "name": "PFC Sochi Youth"
+    },
+    "time": "2019-08-26T07:00:00",
+    "state": {
+      "code": 3,
+      "desc": "Part2"
+    },
+    "home_goals": 5,
+    "away_goals": 3,
+    "3in1": "True",
+    "minutes": 62,
+    "stats": {
+      "corner": {
+        "home": 4.0,
+        "away": 1.0
+      },
+      "yellow_card": {
+        "home": 1.0,
+        "away": 0.0
+      },
+      "red_card": {
+        "home": 0,
+        "away": 0
+      },
+      "shots": {
+        "home": 8.0,
+        "away": 6.0
+      },
+      "shots_on_goals": {
+        "home": 4.0,
+        "away": 4.0
+      },
+      "attach": {
+        "home": 70.0,
+        "away": 49.0
+      },
+      "dangerous_attack": {
+        "home": 43.0,
+        "away": 32.0
+      },
+      "possession": {
+        "home": 62.0,
+        "away": 38.0
+      }
+    },
+    "odds_1x2": [
+      {
+        "ht": 1.68,
+        "draw": 3.05,
+        "at": 5.1,
+        "time": 54,
+        "home_goals": 3,
+        "away_goals": 3
+      }
+    ],
+    "odds_hdp": [
+      {
+        "ht": 0.93,
+        "dec": 0.75,
+        "at": 0.95,
+        "time": 54,
+        "home_goals": 3,
+        "away_goals": 3
+      }
+    ]
+  }
+]
